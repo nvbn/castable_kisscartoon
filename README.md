@@ -8,6 +8,6 @@ It can't be disabled and it's not a real fullscreen in the browser.
 
 You can leave "fullscreen" by pressing `Esc`.
 
-[![Available in the chrome web store](https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_206x58.png)](https://chrome.google.com/webstore/detail/castable-kisscartoon/bjcojegodnfapkdbbnmohcpkfemnjpf)
+[![Available in the chrome web store](https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_206x58.png)](https://chrome.google.com/webstore/detail/castable-kisscartoon/bjcojegodnfapkdbbnmohcpkfemnjpfj)
 
 ## License MIT
