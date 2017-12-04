@@ -10,7 +10,7 @@ const isContinuingPlaying = () => {
   const [previousBtn] = document.getElementsByClassName('preev');
 
   return previousBtn.href === previous;
-}
+};
 
 const enableFullscreen = (player) => {
   const offlight = document.getElementById('offlight');
