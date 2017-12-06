@@ -17,7 +17,6 @@ const enableFullscreen = (player) => {
   player.style.setProperty('position', 'fixed');
   offlight.click();
 
-
   let isExited = false;
   document.addEventListener('keyup', ({keyCode}) => {
     if (keyCode === 27 && !isExited) {
